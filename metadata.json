@@ -1,0 +1,6 @@
+{
+  "name": "Retail Loan Servicing",
+  "description": "An end-to-end AI-powered retail loan lifecycle servicing and automation dashboard with 8 roles and 11 bank automation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
